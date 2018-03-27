@@ -1,0 +1,30 @@
+
+
+ body{
+  background-color: black;
+ }
+
+  h1{
+     color:blue;
+      text-shadow: 2px 2px 5px #BDB76B,
+                   4px 4px 7px darkred;            
+      }
+
+
+   h2{
+    color:black;
+    text-shadow: 2px 2px 5px white,
+                   4px 4px 7px darkred;
+   }   
+
+
+.dot{
+		height: 25px;
+		width: 25px;
+		background-color: darkred;
+		border-radius: 50%;
+    display: inline-block;
+		box-shadow: 3px 3px 5px black,
+  	            5px 5px 7px grey;
+	}
+  

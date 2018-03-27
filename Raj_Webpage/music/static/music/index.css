@@ -1,0 +1,99 @@
+ body{
+             background-color:black;
+        }
+
+       h1{
+         color:black;
+           text-shadow: 1px 1px 3px white,
+                        4px 4px 6px grey;
+        text-align:center;
+       } 
+
+       
+        h5{
+           color:black;
+           text-shadow: 1px 1px 2px white,
+                        2px 2px 3px grey;
+        }
+
+        h6{
+          color:#FFFACD;
+        }
+
+
+         li{
+           color:white;
+        }
+
+
+        #list{
+          margin-left: 10px;
+          margin-right: 10px;
+        }
+
+
+        a{
+          color:white;
+          text-decoration:none;
+        }
+
+        a:hover{
+                color:blue;
+                text-decoration:none;
+        }
+
+        .navbar-brand{
+          font-family: 'satisfy', cursive;
+        }
+
+        img{
+            width:250px;
+            height:175px;
+        }
+
+
+.main {
+  background-color: black;
+  margin:30px;
+  height: 280px;
+  width:300px;
+  clear:right;
+  border-radius: 5px;
+  float:left;
+  box-shadow: 0 0 1px grey;
+   position:relative;
+   display:inline-block;
+   text-align:center;
+}
+
+.main:hover{
+  box-shadow: 0 0 2px white;
+}
+
+        /* .form-inline{
+                  width: 100%;
+                  display: flex;
+                  justify-content: center;
+        }
+
+      .form-inline #search{
+                          width: 50%;
+             }
+
+
+  .dot{
+				height: 25px;
+				width: 25px;
+				background-color: darkred;
+				border-radius: 50%;
+				display: inline-block;
+        margin:0px;
+				box-shadow: 3px 3px 5px black,
+				            5px 5px 7px grey;
+			}
+
+      .bottom{
+        position:fixed;
+        bottom: 10px;
+        text-align:center;
+      }*/
